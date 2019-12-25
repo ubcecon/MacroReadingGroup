@@ -22,3 +22,5 @@ These are the suggested reading lists for Spring 2020.
 1. Spatial Economics and Trade
 1. Machine Learning in Macro
 1. Firm Dynamics and Macro
+
+[Click here to view all the submissions](https://docs.google.com/spreadsheets/d/1h-rqQbGvUtaX_JRdKjKhG3VokFTNBPkyRNzx2EL0Wg8/edit?usp=sharing)
