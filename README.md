@@ -18,4 +18,4 @@ XX:XX-YY:YY, SOMEDAY @ Iona #SOMEROOM.
 These are the suggested reading lists for Spring 2020.
 1. Spatial Economics and Trade
 1. Machine Learning in Macro
-1. Firm Dynammics and Macro
+1. Firm Dynamics and Macro
