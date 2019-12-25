@@ -4,6 +4,9 @@ XX:XX-YY:YY, SOMEDAY @ Iona #SOMEROOM.
 
 [Submit your paper](https://forms.gle/Y6HvEhWpDhhpna4bA) **before SOMEDAY 1pm**.
 
+Please send an email to peifan.wu AT ubc.ca if you are interested in participating in the reading group.
+The reading group is aimed for UBC PhD students in years 2 and above.
+
 ## Reading Group Rules
 
 1. You **must** submit a paper to attend the reading group.
