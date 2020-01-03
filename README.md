@@ -19,8 +19,7 @@ The reading group is aimed for UBC PhD students in years 2 and above.
 ## Suggested Reading List
 
 These are the suggested reading lists for Spring 2020.
-1. Spatial Economics and Trade
-1. Machine Learning in Macro
-1. Firm Dynamics and Macro
+1. [Spatial Economics and Trade](spatial_list.md)
+1. [Machine Learning in Macro](machine_learning_macro.md)
 
 [Click here to view all the submissions](https://docs.google.com/spreadsheets/d/1h-rqQbGvUtaX_JRdKjKhG3VokFTNBPkyRNzx2EL0Wg8/edit?usp=sharing)
