@@ -9,6 +9,5 @@ Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www
 - [Trade and Topography of the Spatial Economy (QJE, 2014) by Allen and Arkolakis](http://www.econ.yale.edu/~ka265/research/Topography/AllenArkolakis.pdf)
 - [On the Existence and Uniqueness of Trade Equilibria (2015) by Allen, Arkolakis, and Li ](http://www.econ.yale.edu/~ka265/research/OnExistenceUniqueness/Allen%20Arkolakis%20Li%20%20-%20Existence%20Uniqueness.pdf)
 - [The Geography of Path Dependence (2019) by Allen and Donaldson](https://dl.dropbox.com/s/0ww1i1sbi2e6u6u/Allen%20and%20Donaldson%20-%20Path%20Dependence.pdf)
-- [General Equilibrium Analysis of the Eaton-Kortum Model of International Trade (JME 2007) by Alvarez and Lucas](https://www.sciencedirect.com/science/article/pii/S0304393206002169)
 - [The Quantitative Effects of Trade Policy on Industrial and Labor Location (2019) By Caliendo and Parro](https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/40/2019/11/QETPILL.pdf)
 - [The Impact of Regional and Sectoral Productivity Changes on the US Economy (ReStud 2018) by Caliendo, Parro, Rossi-Hansberb and Sarte](https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/40/2019/06/RSSUS.pdf)
