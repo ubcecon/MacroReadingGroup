@@ -1,6 +1,6 @@
 # UBC Macro Reading Group
 
-11am - 12pm, Mondays @ Iona #SOMEROOM.
+11am - 12pm, Mondays @ Iona 167.
 
 [Submit your paper](https://forms.gle/Y6HvEhWpDhhpna4bA) **before 1pm on the previous Thursday**.
 
