@@ -2,7 +2,7 @@
 
 - [Will Artficial Intelligence Replace Computational Economists Any
 Time Soon? (2019) by Maliar, Maliar, and Winant](https://lmaliar.ws.gc.cuny.edu/files/2019/10/CEPR-DP14024.pdf)
-- [Financial Frictions and the Wealth Distribution (2019) by Fernandez-Villaverge, Hurtado, and Nuno](https://www.sas.upenn.edu/~jesusfv/Financial_Frictions_Wealth_Distribution.pdf)
+- [Financial Frictions and the Wealth Distribution (2019) by Fernandez-Villaverde, Hurtado, and Nuno](https://www.sas.upenn.edu/~jesusfv/Financial_Frictions_Wealth_Distribution.pdf)
 - [Machine Learning for High-Dimensional Dynamic Stochastic Economies (Journal of Computational Science, 2019) by Scheidegger and Bilionis](https://www.sciencedirect.com/science/article/pii/S1877750318306161?via%3Dihub)
 - [Machine Learning for Continuous-Time Economics (2018) by Duarte](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012602)
 - [Using Adaptive Sparse Grids to Solve High-Dimensional Dynamic Models (ECMA, 2017) by Brumm and Scheidegger](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA12216)
