@@ -4,7 +4,6 @@
 
 [Submit your paper](https://forms.gle/Y6HvEhWpDhhpna4bA) **before 1pm on the previous Thursday**.
 
-Please send an email to peifan.wu AT ubc.ca if you are interested in participating in the reading group.
 The reading group is aimed for UBC PhD students in years 2 and above.
 
 ## Reading Group Rules
