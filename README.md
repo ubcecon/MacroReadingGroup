@@ -10,7 +10,7 @@ Sign up for the reading group mailing list called `MACRO-READING-GROUP` by
 - You can email peifan.wu@ubc.ca if you are having issues.
 
 ## Reading Group Rules
-1. The reading group is aimed for UBC PhD students in years 2 and above.  We won't except first-year students.
+1. The reading group is aimed for UBC PhD students in years 2 and above.  We won't accept first-year students.
 1. You **must** submit a paper to attend the reading group each week.
 1. Regular attendence is expected. 
 1. We will be discussing papers mostly on macro topics, but there is in general no restrictions on topics.
