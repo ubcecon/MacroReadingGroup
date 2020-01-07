@@ -1,7 +1,30 @@
 ## Suggested Papers on Spatial Economics in Macro/Trade
-Thanks to Costas Arkolakis for the suggestions.  Papers are not in any suggested order of importantance
+Thanks to Costas Arkolakis and others for the suggestions.  Papers are not in any suggested order of importantance
+
+### People to track
+Instead of giving lists of papers, consider looking at recent papers by some of the following (in alphabetical order, and with all apologies to the amazing researchers not yet added)
+- [Treb Allen](https://sites.google.com/site/treballen/)
+- [Costas Arkolakis](http://www.econ.yale.edu/~ka265/)
+- [David Atkin](https://www.mit.edu/~atkin/)
+- [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/)
+- [Victor Couture](http://faculty.haas.berkeley.edu/couture/index.html?_ga=2.132578698.589686807.1578425949-1977489864.1571180423)
+- [Donald Davis](https://sites.google.com/site/drdavis001/home/research)
+- [Jonathan Dingel](https://faculty.chicagobooth.edu/jonathan.dingel/)
+- [Dave Donaldson](https://economics.mit.edu/faculty/ddonald) 
+- [Ben Faber](https://eml.berkeley.edu/~faberb/)
+- [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/)
+- [Erik Hurst](https://www.chicagobooth.edu/faculty/directory/h/erik-hurst)
+- [Stephen Redding](http://www.princeton.edu/~reddings/) 
+- [Esteban Rossi-Hansberg](https://www.princeton.edu/~erossi/)
+- [Felix Tintelnot](http://felix-tintelnot.wikidot.com/research) 
 
 ### Papers on Quantitative Trade/Spatial Models
+
+These papers are somewhat more theoretical, largely based on Eaton/Kortum style frameworks.  Thanks to Costas Arkolakis for many of the suggestions.
+
+For macro people to understand Eaton and Kortum, consider reading [General equilibrium analysis of the Eaton–Kortum model of international trade (2007, JME) by Alvarez and Lucas](https://www.sciencedirect.com/science/article/pii/S0304393206002169)
+
+A good survey on these is [Quantitative Spatial Economics (2017, Annual Review) by Redding and Rossi-Hansberg](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-063016-103713)
 
 - [Spatial Linkages, Global Shocks, and Local Labor
 Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www.econ.yale.edu/~ka265/research/LaborSupplyTrade/Adao%20Arkolakis%20Esposito%20Spatial%20Links%20Global%20Shocks%20Local%20Labor%20Markets.pdf)
@@ -17,3 +40,7 @@ Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www
 - [Cognitive Hubs and Spatial Redistribution (2019) by Rossi-Hansberg, Sarte, and Schwartzman](https://www.princeton.edu/~erossi/CHSR.pdf)
 - [Commuting, Migration, and Local Employment Elasticities (AER, 2018) by Monte, Redding, and Rossi-Hansberg](https://www.princeton.edu/~erossi/CMLEE.pdf)
 - [The Geography of Development (JPE, 2018) by Desmet, Nagy, and Rossi-Hansberg](https://www.princeton.edu/~erossi/GD.pdf) 
+
+### Some Lecture Notes/Reading Lists
+Also, see the following lecture notes:
+- [Big Data in Spatial Economics 1 by Couture and Green](https://uc9501a5f701fbed492fd9b8eae2.dl.dropboxusercontent.com/cd/0/inline2/AvuCAHja4Z_diTAbcizsGBRbfU9KFbnxx50QmoAPPeBIqMVyDWPY7t-ob_rcrAE9HXy6OLppcBLh3HWQtF7jNqY8701DWX7oYMiMtUZSdOqlKYviWLBgGFm3JgVCdzV_zra1oJNQ8hV4HmJWd7eAJgRvcQWL1OtGpG7COShoVlQ5qY7PmT3Hy0Ak2Vc98eDDytEhW_utV0CLVWroa1St9UcycEcge2ywAplDLd8ksE6oNCFXnN89wyHDSn3od73aEDgAIfHQrlRylINT9rgpihGEjDwfJXxcCixYI-xc2eimWOdxVtn5tiinIRXqEJkOGzSeeIqFagzNiDpYuz2ZNxnfsWndkcxo0epKWMZC3OwBCQ/file#) and [Big Data in Spatial Economics 2 by Couture and Green](https://uc8e15a47adab652e81abafb14af.dl.dropboxusercontent.com/cd/0/inline2/AvtZhQstKju90Xap_949n5KsWEAmrok0sk8EvcXrP70EQSv4rN1it8-vLD-J8qfzZ1h6oE5vbYDddll8lJ_shnR9Rn11WpMhknzOkA57h8qZzHYkXXnzd7p6Zs_-q6jbO6pgcMCX7APmULWS3OQZLPX40N2vPHpKjPmYNr0HD4DWh1xMNjoPScrLgcuwHyRn4wuyVd5DVvPnQlwF4-9F4B04AZlbyHWuLenLajLymdJTtVAPfD02IKOlUiFDEMMuj8fmcgam84qWT5gGNQGO8gFVnQzMi4vPMq1kuOnkzlXGF3A6gtn2oAiR1-umkJXin56GRkv82QNeCmYNrEFZ0ygHWJMXskB5Z5aauYz4Wnh1sw/file#)
