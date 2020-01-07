@@ -2,7 +2,7 @@
 
 11am - 12pm, Mondays @ Iona 167.
 
-[Submit your paper](https://forms.gle/Y6HvEhWpDhhpna4bA) **before 1pm on the previous Thursday**.
+[Submit your paper](https://forms.gle/Y6HvEhWpDhhpna4bA) **before 1pm on the previous Wednesday**.
 
 Sign up for the reading group mailing list called `MACRO-READING-GROUP` by
 - Emailing listserv@lists.ubc.ca from the address you want to subscribe with the text  `subscribe MACRO-READING-GROUP`
