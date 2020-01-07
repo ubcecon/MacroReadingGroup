@@ -12,3 +12,6 @@ Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www
 - [The Quantitative Effects of Trade Policy on Industrial and Labor Location (2019) By Caliendo and Parro](https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/40/2019/11/QETPILL.pdf)
 - [The Impact of Regional and Sectoral Productivity Changes on the US Economy (ReStud 2018) by Caliendo, Parro, Rossi-Hansberb and Sarte](https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/40/2019/06/RSSUS.pdf)
 - [The Economics of Density: Evidence From the Berlin Wall (ECMA, 2015) by Ahlfeldt, Redding, Strum, and Wolf](https://www.princeton.edu/~reddings/pubpapers/Berlin-Ecta-10876.pdf)
+- [Cognitive Hubs and Spatial Redistribution (2019) by Rossi-Hansberg, Sarte, and Schwartzman](https://www.princeton.edu/~erossi/CHSR.pdf)
+- [Commuting, Migration, and Local Employment Elasticities (AER, 2018) by Monte, Redding, and Rossi-Hansberg](https://www.princeton.edu/~erossi/CMLEE.pdf)
+- [The Geography of Development (JPE, 2018) by Desmet, Nagy, and Rossi-Hansberg](https://www.princeton.edu/~erossi/GD.pdf) 
