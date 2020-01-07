@@ -1,6 +1,8 @@
 ## Suggested Papers on Spatial Economics in Macro/Trade
 Thanks to Costas Arkolakis for the suggestions.  Papers are not in any suggested order of importantance
 
+### Papers on Quantitative Trade/Spatial Models
+
 - [Spatial Linkages, Global Shocks, and Local Labor
 Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www.econ.yale.edu/~ka265/research/LaborSupplyTrade/Adao%20Arkolakis%20Esposito%20Spatial%20Links%20Global%20Shocks%20Local%20Labor%20Markets.pdf)
 - [Trade and Labor Market Dynamics: General Equilibrium Analysis of the China Trade Shock (ECMA, 2019) by Caliendo, Dvorkin, and Parro](https://www.google.com/url?q=https%3A%2F%2Fspinup-000d1a-wp-offload-media.s3.amazonaws.com%2Ffaculty%2Fwp-content%2Fuploads%2Fsites%2F40%2F2019%2F06%2FCDP.pdf&sa=D&sntz=1&usg=AFQjCNHNh33ZESCatHsc-tfzM7ih3TVj-w)
