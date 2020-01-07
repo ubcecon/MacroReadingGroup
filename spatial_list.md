@@ -11,3 +11,4 @@ Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www
 - [The Geography of Path Dependence (2019) by Allen and Donaldson](https://dl.dropbox.com/s/0ww1i1sbi2e6u6u/Allen%20and%20Donaldson%20-%20Path%20Dependence.pdf)
 - [The Quantitative Effects of Trade Policy on Industrial and Labor Location (2019) By Caliendo and Parro](https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/40/2019/11/QETPILL.pdf)
 - [The Impact of Regional and Sectoral Productivity Changes on the US Economy (ReStud 2018) by Caliendo, Parro, Rossi-Hansberb and Sarte](https://spinup-000d1a-wp-offload-media.s3.amazonaws.com/faculty/wp-content/uploads/sites/40/2019/06/RSSUS.pdf)
+- [The Economics of Density: Evidence From the Berlin Wall (ECMA, 2015) by Ahlfeldt, Redding, Strum, and Wolf](https://www.princeton.edu/~reddings/pubpapers/Berlin-Ecta-10876.pdf)
