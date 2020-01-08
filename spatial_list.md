@@ -12,10 +12,14 @@ Instead of giving lists of papers, consider looking at recent papers by some of 
 - [Jonathan Dingel](https://faculty.chicagobooth.edu/jonathan.dingel/)
 - [Dave Donaldson](https://economics.mit.edu/faculty/ddonald) 
 - [Ben Faber](https://eml.berkeley.edu/~faberb/)
+- [Pablo D. Fajgelbaum](http://www.econ.ucla.edu/pfajgelbaum/)
 - [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/)
 - [Erik Hurst](https://www.chicagobooth.edu/faculty/directory/h/erik-hurst)
+- [Sam Kortum](http://kortum.elisites.yale.edu/)
 - [Stephen Redding](http://www.princeton.edu/~reddings/) 
 - [Esteban Rossi-Hansberg](https://www.princeton.edu/~erossi/)
+- [Edouard Schaal](https://sites.google.com/site/edouardschaal/research)
+- [Mathieu Taschereau-Dumouchel](https://www.mathtd.info/)
 - [Felix Tintelnot](http://felix-tintelnot.wikidot.com/research) 
 
 ### Papers on Quantitative Trade/Spatial Models
