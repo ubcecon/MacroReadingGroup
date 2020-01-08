@@ -10,8 +10,6 @@
    </td>
    <td>Year
    </td>
-   <td>Date
-   </td>
    <td>Link
    </td>
   </tr>
@@ -27,8 +25,6 @@
    <td><p style="text-align: right">
 2019</p>
 
-   </td>
-   <td>Jan 13th
    </td>
    <td><a href="https://lmaliar.ws.gc.cuny.edu/files/2019/10/CEPR-DP14024.pdf">https://lmaliar.ws.gc.cuny.edu/files/2019/10/CEPR-DP14024.pdf</a>
    </td>
@@ -46,8 +42,6 @@
 2018</p>
 
    </td>
-   <td>Jan 13th
-   </td>
    <td><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012602">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012602</a>
    </td>
   </tr>
@@ -63,8 +57,6 @@
    <td><p style="text-align: right">
 2018</p>
 
-   </td>
-   <td>Jan 13th
    </td>
    <td><a href="https://personales.unican.es/sanchezv/ALLS.pdf">https://personales.unican.es/sanchezv/ALLS.pdf</a>
    </td>
@@ -82,8 +74,6 @@
 2019</p>
 
    </td>
-   <td>Jan 13th
-   </td>
    <td><a href="https://lmaliar.ws.gc.cuny.edu/files/2019/10/CEPR-DP14024.pdf">https://lmaliar.ws.gc.cuny.edu/files/2019/10/CEPR-DP14024.pdf</a>
    </td>
   </tr>
@@ -99,8 +89,6 @@
    <td><p style="text-align: right">
 2018</p>
 
-   </td>
-   <td>Jan 13th
    </td>
    <td><a href="https://www.princeton.edu/~erossi/CMLEE.pdf">https://www.princeton.edu/~erossi/CMLEE.pdf</a>
    </td>
@@ -118,8 +106,6 @@
 2018</p>
 
    </td>
-   <td>Jan 13th
-   </td>
    <td><a href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15280">https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15280</a>
    </td>
   </tr>
@@ -135,8 +121,6 @@
    <td><p style="text-align: right">
 2014</p>
 
-   </td>
-   <td>Jan 13th
    </td>
    <td><a href="https://doi.org/10.3982/ECTA10528">https://doi.org/10.3982/ECTA10528</a>
    </td>
@@ -154,8 +138,6 @@
 2016</p>
 
    </td>
-   <td>Jan 13th
-   </td>
    <td><a href="https://www.journals.uchicago.edu/doi/abs/10.1086/684511">https://www.journals.uchicago.edu/doi/abs/10.1086/684511</a>
    </td>
   </tr>
@@ -171,8 +153,6 @@
    <td><p style="text-align: right">
 2016</p>
 
-   </td>
-   <td>Jan 13th
    </td>
    <td><a href="https://arxiv.org/abs/1611.07422">https://arxiv.org/abs/1611.07422</a>
    </td>
@@ -190,8 +170,6 @@
 2019</p>
 
    </td>
-   <td>Jan 13th
-   </td>
    <td><a href="https://www.nber.org/papers/w26196">https://www.nber.org/papers/w26196</a>
    </td>
   </tr>
@@ -207,8 +185,6 @@
    <td><p style="text-align: right">
 2018</p>
 
-   </td>
-   <td>Jan 13th
    </td>
    <td><a href="http://www.econ.yale.edu/~ka265/research/UniversalGravity/AAT%20-%20Universal%20Gravity%20-%20paper.pdf">http://www.econ.yale.edu/~ka265/research/UniversalGravity/AAT%20-%20Universal%20Gravity%20-%20paper.pdf</a>
    </td>
