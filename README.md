@@ -9,6 +9,8 @@ Sign up for the reading group mailing list called `MACRO-READING-GROUP` by
 - You should get a confirmation email that you have been added.  Or, use an alternative [web-based approach](https://ubc.service-now.com/kb_view_customer.do?sysparm_article=KB0014681)
 - You can email peifan.wu@ubc.ca if you are having issues.
 
+[Click here to view all the submissions](https://docs.google.com/spreadsheets/d/1h-rqQbGvUtaX_JRdKjKhG3VokFTNBPkyRNzx2EL0Wg8/edit?usp=sharing)
+
 ## Reading Group Rules
 1. The reading group is aimed for UBC PhD students in years 2 and above.  We won't accept first-year students.
 1. You **must** submit a paper to attend the reading group each week.
@@ -27,5 +29,5 @@ However, to get students started on a few themes, here are a few topics to consi
 
 But to repeat: feel no pressure to stay within these themes, or even within those papers on the topics.
 
-
-[Click here to view all the submissions](https://docs.google.com/spreadsheets/d/1h-rqQbGvUtaX_JRdKjKhG3VokFTNBPkyRNzx2EL0Wg8/edit?usp=sharing)
+## Presentations
+- [Jan 13th, 2020](2020_spring/Jan_13th.md)
