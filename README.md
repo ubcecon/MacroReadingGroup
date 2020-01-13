@@ -30,4 +30,4 @@ However, to get students started on a few themes, here are a few topics to consi
 But to repeat: feel no pressure to stay within these themes, or even within those papers on the topics.
 
 ## Presentations
-- [Jan 13th, 2020](2020_Spring/Jan_13th.md)
+- [Jan 13th, 2020](2020_Spring/Jan_13th.md), [Mila](2020_Spring/Mila_Jan_13th.pdf)
