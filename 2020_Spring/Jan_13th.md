@@ -1,5 +1,3 @@
-Slides: [Mila](Mila_Jan_13th.pdf)
-
 <table>
   <tr>
    <td>Participant Name
