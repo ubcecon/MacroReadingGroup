@@ -17,7 +17,7 @@ Sign up for the reading group mailing list called `MACRO-READING-GROUP` by
 1. Regular attendence is expected. 
 1. We will be discussing papers mostly on macro topics, but there is in general no restrictions on topics.
 1. Every week each student submits a paper of their choice the week before the reading group.
-1. From the submitted papers, the organizer chooses at most two to be given as **20-minute** presentations by those who submitted them **with slides**.
+1. From the submitted papers, the organizer chooses at most two to be given as **20-minute** presentations by those who submitted them **with slides**. [Some guidelines from Henry](guidelines_Henry.md)
 1. Students whose submissions are not chosen for 20-minute presentations are exposed to being called upon for a **5-minute** presentation **without slides**.  Bring notes along with the paper you read each week so you can keep track of your quick discussion.
 
 ## Choosing Papers
