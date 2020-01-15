@@ -31,3 +31,4 @@ But to repeat: feel no pressure to stay within these themes, or even within thos
 
 ## Presentations
 - [Jan 13th, 2020](2020_Spring/Jan_13th.md), [Mila](2020_Spring/Mila_Jan_13th.pdf), [Mahdi](2020_Spring/Mahdi_Jan_13th.pdf)
+- [Jan 20th, 2020](2020_Spring/Jan_20th.md)
