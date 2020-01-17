@@ -1,5 +1,5 @@
 ## Suggested Papers on Spatial Economics in Macro/Trade
-Thanks to Costas Arkolakis and others for the suggestions.  Papers are not in any suggested order of importantance
+Thanks to Costas Arkolakis, Lorenzo Caliendo, and others for the suggestions.  Papers are not in any suggested order of importantance
 
 ### People to track
 Instead of giving lists of papers, consider looking at recent papers by some of the following (in alphabetical order, and with all apologies to the amazing researchers not yet added)
