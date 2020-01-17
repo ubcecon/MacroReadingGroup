@@ -49,6 +49,12 @@ Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www
 - [Internal Geography, International Trade, and Regional Specialization (AEJMicro, 2016) by Fajgelbaum and Cosar](http://www.econ.ucla.edu/pfajgelbaum/cf_IGITRS.pdf)
 - [Optimal Spatial Policies, Geography, and Sorting (QJE, 2019) by Fajgelbaum and Gaubert](http://www.econ.ucla.edu/pfajgelbaum/OSPGS.pdf)
 - [State Taxes and Spatial Misallocation (REStud, 2019) by Fajgelbaum, Morales, Serrato, Zidar](http://www.econ.ucla.edu/pfajgelbaum/STSMUS.pdf)
+- [Changes in Between Group Inequality: Computers, Occupations, and International Trade (AEJMacro, 2019) by Burstein, Morales, Vogel](http://www.econ.ucla.edu/jvogel/BMV.pdf)
+- [Estimating Neighborhood Effects: Evidence from War-time Destruction in London (2016) by Redding and Sturm](http://www.princeton.edu/~reddings/papers/LWW2-9Mar16.pdf)
+- [Railroads and American Economic Growth: a “Market Access” Approach (QJE 2016) by Donaldson and Hornbeck](http://dave-donaldson.com/wp-content/uploads/2016/10/Donaldson_Hornbeck_Railroads_paper.pdf)
+- [Railroads of the Raj: Estimating the Impact of Transportation Infrastructure (AER 2018) by Donaldson](https://dave-donaldson.com/wp-content/uploads/2018/03/Donaldson_RRRaj_AER.pdf)
+- [Firm Sorting and Agglomeration (AER 2018) by Gaubert](http://eml.berkeley.edu/~cecile.gaubert/firm_sorting_gaubert.pdf)
+- [Tourism and Economic Development: Evidence from Mexico's Coastline (AER 2019) by Gaubert and Faber](https://www.dropbox.com/s/w08bdts16g19d3k/Faber_Gaubert_Tourism.pdf?raw=1)
 
 ### Some Lecture Notes/Reading Lists
 Also, see the following lecture notes:
