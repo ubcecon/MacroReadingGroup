@@ -56,6 +56,8 @@ Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www
 - [Firm Sorting and Agglomeration (AER 2018) by Gaubert](http://eml.berkeley.edu/~cecile.gaubert/firm_sorting_gaubert.pdf)
 - [Tourism and Economic Development: Evidence from Mexico's Coastline (AER 2019) by Gaubert and Faber](https://www.dropbox.com/s/w08bdts16g19d3k/Faber_Gaubert_Tourism.pdf?raw=1)
 
+<!---
 ### Some Lecture Notes/Reading Lists
 Also, see the following lecture notes:
 - [Big Data in Spatial Economics 1 by Couture and Green](https://uc9501a5f701fbed492fd9b8eae2.dl.dropboxusercontent.com/cd/0/inline2/AvuCAHja4Z_diTAbcizsGBRbfU9KFbnxx50QmoAPPeBIqMVyDWPY7t-ob_rcrAE9HXy6OLppcBLh3HWQtF7jNqY8701DWX7oYMiMtUZSdOqlKYviWLBgGFm3JgVCdzV_zra1oJNQ8hV4HmJWd7eAJgRvcQWL1OtGpG7COShoVlQ5qY7PmT3Hy0Ak2Vc98eDDytEhW_utV0CLVWroa1St9UcycEcge2ywAplDLd8ksE6oNCFXnN89wyHDSn3od73aEDgAIfHQrlRylINT9rgpihGEjDwfJXxcCixYI-xc2eimWOdxVtn5tiinIRXqEJkOGzSeeIqFagzNiDpYuz2ZNxnfsWndkcxo0epKWMZC3OwBCQ/file#) and [Big Data in Spatial Economics 2 by Couture and Green](https://uc8e15a47adab652e81abafb14af.dl.dropboxusercontent.com/cd/0/inline2/AvtZhQstKju90Xap_949n5KsWEAmrok0sk8EvcXrP70EQSv4rN1it8-vLD-J8qfzZ1h6oE5vbYDddll8lJ_shnR9Rn11WpMhknzOkA57h8qZzHYkXXnzd7p6Zs_-q6jbO6pgcMCX7APmULWS3OQZLPX40N2vPHpKjPmYNr0HD4DWh1xMNjoPScrLgcuwHyRn4wuyVd5DVvPnQlwF4-9F4B04AZlbyHWuLenLajLymdJTtVAPfD02IKOlUiFDEMMuj8fmcgam84qWT5gGNQGO8gFVnQzMi4vPMq1kuOnkzlXGF3A6gtn2oAiR1-umkJXin56GRkv82QNeCmYNrEFZ0ygHWJMXskB5Z5aauYz4Wnh1sw/file#)
+-->
