@@ -142,4 +142,21 @@
    <td><a href="https://www.ssb.no/en/forskning/discussion-papers/_attachment/392866">https://www.ssb.no/en/forskning/discussion-papers/_attachment/392866</a>
    </td>
   </tr>
+  
+  <tr>
+   <td>Davide Alonzo
+   </td>
+   <td>Unemployment Cycles
+   </td>
+   <td>Eeckhout, Lindenlaub
+   </td>
+   <td>AEJMacro
+   </td>
+   <td><p style="text-align: right">
+2019</p>
+
+   </td>
+   <td><a href="https://www.aeaweb.org/doi/10.1257/mac.20180105">https://www.aeaweb.org/doi/10.1257/mac.20180105</a>
+   </td>
+  </tr>
 </table>
