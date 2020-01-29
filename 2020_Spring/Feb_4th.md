@@ -1,4 +1,19 @@
 <table>
+   <tr>
+   <td>Participant Name
+   </td>
+   <td>Paper Title
+   </td>
+   <td>Authors
+   </td>
+   <td>Journal
+   </td>
+   <td>Year
+   </td>
+   <td>Link
+   </td>
+  </tr>
+  
   <tr>
    <td>Anand Chopra
    </td>
