@@ -1,5 +1,7 @@
 ## Suggested Papers on Spatial Economics in Macro/Trade
-Thanks to Costas Arkolakis, Lorenzo Caliendo, and others for the suggestions.  Papers are not in any suggested order of importantance
+Thanks to Costas Arkolakis, Lorenzo Caliendo, and others for the suggestions. Thanks to Tomas Rodriguez who generously shared the [reading list on spatial economics](NYU Spatial Economics reading group - Reading list.pdf) from NYU.
+
+Papers are not in any suggested order of importantance.
 
 ### People to track
 Instead of giving lists of papers, consider looking at recent papers by some of the following (in alphabetical order, and with all apologies to the amazing researchers not yet added)
@@ -23,8 +25,6 @@ Instead of giving lists of papers, consider looking at recent papers by some of 
 - [Felix Tintelnot](http://felix-tintelnot.wikidot.com/research) 
 
 ### Papers on Quantitative Trade/Spatial Models
-
-These papers are somewhat more theoretical, largely based on Eaton/Kortum style frameworks.  Thanks to Costas Arkolakis for many of the suggestions.
 
 For macro people to understand Eaton and Kortum, consider reading [General equilibrium analysis of the Eaton–Kortum model of international trade (2007, JME) by Alvarez and Lucas](https://www.sciencedirect.com/science/article/pii/S0304393206002169)
 
