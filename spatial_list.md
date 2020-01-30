@@ -1,5 +1,5 @@
 ## Suggested Papers on Spatial Economics in Macro/Trade
-Thanks to Costas Arkolakis, Lorenzo Caliendo, and others for the suggestions. Thanks to Tomas Rodriguez who generously shared the [reading list on spatial economics](NYU Spatial Economics reading group - Reading list.pdf) from NYU.
+Thanks to Costas Arkolakis, Lorenzo Caliendo, and others for the suggestions. Thanks to Tomas Rodriguez who generously shared the [reading list on spatial economics](NYUlist.pdf) from NYU.
 
 Papers are not in any suggested order of importantance.
 
