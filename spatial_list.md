@@ -18,6 +18,7 @@ Instead of giving lists of papers, consider looking at recent papers by some of 
 - [Cecile Gaubert](https://eml.berkeley.edu/~cecile.gaubert/)
 - [Erik Hurst](https://www.chicagobooth.edu/faculty/directory/h/erik-hurst)
 - [Sam Kortum](http://kortum.elisites.yale.edu/)
+- [Michael Peters](https://mipeters.weebly.com/)
 - [Stephen Redding](http://www.princeton.edu/~reddings/) 
 - [Esteban Rossi-Hansberg](https://www.princeton.edu/~erossi/)
 - [Edouard Schaal](https://sites.google.com/site/edouardschaal/research)
@@ -55,6 +56,7 @@ Markets: Theory and Evidence (2019) by Adao, Arkolakis, and Esposito](http://www
 - [Railroads of the Raj: Estimating the Impact of Transportation Infrastructure (AER 2018) by Donaldson](https://dave-donaldson.com/wp-content/uploads/2018/03/Donaldson_RRRaj_AER.pdf)
 - [Firm Sorting and Agglomeration (AER 2018) by Gaubert](http://eml.berkeley.edu/~cecile.gaubert/firm_sorting_gaubert.pdf)
 - [Tourism and Economic Development: Evidence from Mexico's Coastline (AER 2019) by Gaubert and Faber](https://www.dropbox.com/s/w08bdts16g19d3k/Faber_Gaubert_Tourism.pdf?raw=1)
+- [Spatial Structural Change by Peters and Eckert](https://mipeters.weebly.com/uploads/1/4/6/5/14651240/michaelpeters_spatialstructuralchange.pdf)
 
 <!---
 ### Some Lecture Notes/Reading Lists
