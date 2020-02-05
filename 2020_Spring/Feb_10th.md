@@ -6,7 +6,7 @@
    </td>
    <td>Gaetano Gaballo
    </td>
-   <td>AEJ:Macroeconomics
+   <td>AEJ:Macro
    </td>
    <td><p style="text-align: right">
 2016</p>
@@ -38,7 +38,7 @@
    </td>
    <td>Daisuke Ikeda and Toan Phan
    </td>
-   <td>American Economic Journal: Macroeconomics
+   <td>AEJ:Macro
    </td>
    <td><p style="text-align: right">
 2019</p>
@@ -125,6 +125,22 @@
 
    </td>
    <td><a href="https://mipeters.weebly.com/uploads/1/4/6/5/14651240/markups_misallocation.pdf">https://mipeters.weebly.com/uploads/1/4/6/5/14651240/markups_misallocation.pdf</a>
+   </td>
+  </tr>
+   <tr>
+   <td>Pooya Ravari
+   </td>
+   <td>Competition, Markups, and the Gains from International Trade
+   </td>
+   <td>Edmond, Midrigan, Xu
+   </td>
+   <td>AER
+   </td>
+   <td><p style="text-align: right">
+2015</p>
+
+   </td>
+   <td><a href="https://www.aeaweb.org/articles?id=10.1257/aer.20120549">https://www.aeaweb.org/articles?id=10.1257/aer.20120549</a>
    </td>
   </tr>
 </table>
