@@ -36,4 +36,4 @@ But to repeat: feel no pressure to stay within these themes, or even within thos
 - [Feb 3rd, 2020](2020_Spring/Feb_3rd.md), [Anand](2020_Spring/Anand_Feb_3rd.pdf), [Pooya](2020_Spring/Pooya_Feb_3rd.pdf)
 - [Feb 10th, 2020](2020_Spring/Feb_10th.md), [Alejandro](2020_Spring/Alejandro_Feb_10th.pdf)
 - [Feb 24th, 2020](2020_Spring/Feb_24th.md)
-- [Mar 2nd, 2020](2020_Spring/Mar_2nd.md)
+- [Mar 2nd, 2020](2020_Spring/Mar_2nd.md), [Pooya](), [Sebastian]()
